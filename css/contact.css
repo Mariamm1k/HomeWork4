@@ -1,0 +1,82 @@
+.navitems{
+	margin-right: 50px;
+    margin-left:100px;
+    display:flex;
+    z-index:1;
+    position:fixed;
+    top:0;
+    list-style-type:none;
+}
+.navi {
+	height: 30px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.active {
+	color: #EE4036;
+	font-size: 22px;
+	font-family: BPGNinoMtavruli-Bold;
+}
+.unactive{
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: BPGNinoMtavruli-Bold;
+}
+.logo {
+	margin-top: 30px;
+	margin-left: 30px;
+	width: 100,18px;
+}
+.facebook {
+	width: 14px;
+	margin-left: 36px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-right: 2px solid;
+	border-color: #363E97;
+	padding-right: 36px;
+}
+.Youtube {
+	width: 25px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h1{
+	font-size: 20px;
+	font-family:BPGNinoMtavruli-Bold;
+	line-height: 24px;
+	color:#3D58A6;
+	width: 262px;
+	margin-left: 93px;
+	margin-top:51px;
+
+
+}
+span{
+    font-size: 16px;
+	font-family:BPGIngiriArial;
+	line-height: 24px;
+	color:#808080;
+	width: 262px;
+	margin-left: 93px;
+	margin-top:51px;
+}
+.address{
+	font-size: 16px;
+	font-family:BPGIngiriArial;
+	line-height: 24px;
+	color:black;
+	width: 262px;
+	margin-top: 300px;	
+}
+.back{
+	background-color: #E6E6E6;
+}
+iframe {
+	width: 1366px;
+	height: 466px;
+	display: block;
+	flex-direction: row;
+}
+
