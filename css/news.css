@@ -1,0 +1,111 @@
+.navitems{
+	margin-right: 50px;
+    margin-left:100px;
+    display:flex;
+    z-index:1;
+    position:fixed;
+    top:0;
+    list-style-type:none;
+}
+.navi {
+	height: 30px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.active {
+	color: #EE4036;
+	font-size: 22px;
+	font-family: BPGNinoMtavruli-Bold;
+}
+.unactive{
+	color: #3D58A6;
+	font-size: 22px;
+	font-family: BPGNinoMtavruli-Bold;
+}
+.logo {
+	margin-top: 30px;
+	margin-left: 30px;
+	width: 100,18px;
+}
+.facebook {
+	width: 14px;
+	margin-left: 36px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-right: 2px solid;
+	border-color: #363E97;
+	padding-right: 36px;
+}
+.Youtube {
+	width: 25px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.Group {
+	width: 1117px;
+	margin-left: 98px;
+	margin-top: 77px;
+}
+h3 {
+	font-family: Roboto-Regular;
+	margin-left: 98px;
+	margin-top: 117px;
+	font-size: 24px ;
+	font-weight: normal;
+}
+.fingerclick{
+	text-transform: uppercase;
+	font-family47Roboto-Regular;
+	font-size: 22px;
+	color: #3D58A6;
+	background-color: #F2F2F2;
+	padding: 50px;
+	margin-left:98px;
+	display: flex;
+	margin-right: 28px;
+	margin-top: 10px;
+	width: 570px;
+}
+.finger{
+	margin-left: 39px ;
+	width: 100px;
+	margin-bottom:47px ;
+}
+p{
+	text-transform: lowercase;
+	font-family: Roboto-Regular;
+	font-size: 20px;
+	color: black;
+	display: inline-block;
+	width: 355px;
+}
+
+.iphone{
+	text-transform: uppercase;
+	font-family47Roboto-Regular;
+	font-size: 22px;
+	color: #3D58A6;
+	background-color: #F2F2F2;
+	padding: 50px;
+	margin-left:98px;
+	display: flex;
+	margin-right: 28px;
+	margin-top: 10px;
+	width: 570px;
+	display: inline-flex;
+}
+.finger{
+	margin-left: 39px ;
+	width: 100px;
+	margin-bottom:47px ;
+}
+p{
+	text-transform: lowercase;
+	font-family: Roboto-Regular;
+	font-size: 20px;
+	color: black;
+	display: inline-block;
+	width: 355px;
+
+}
